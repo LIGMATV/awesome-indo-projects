@@ -1,7 +1,7 @@
 <div align="center">
   
 ![awesome-indo-projects](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-indo-projects@main/logo.svg)  
-<sup>Created with [Lunacy](https://icons8.com/lunacy) by [LIGMATV](https://ligmatv.vercel.app/). Inspired from [awesome-editorjs](https://github.com/editor-js/awesome-editorjs).</sup>
+<sup>Logo created with [Lunacy](https://icons8.com/lunacy) by [LIGMATV](https://ligmatv.vercel.app/). Inspired from [awesome-editorjs](https://github.com/editor-js/awesome-editorjs/blob/master/assets/editor-awesome.png).</sup>
 
 </div>
 
@@ -452,3 +452,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
 - [Sekolah Koding](https://www.youtube.com/c/SekolahKoding)
 - [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+
+# Contributing
+
+Ingin menambahkan projek atau berkontribusi di sini? Baca [contributing](contributing.md) untuk detail.
