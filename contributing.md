@@ -2,17 +2,18 @@
 
 Periksa hal-hal ini sebelum emmbuat pull request :
 
-- Pastikan projek anda sesuai dengan bahasa/kategorinya.
-- Pastikan ejaan di nama projek, link dan deskripsi anda benar.
+- Pastikan projek anda sesuai dengan **bahasa/kategorinya**.
+- Pastikan ejaan di **nama projek, link dan deskripsi anda benar**.
+- Pastikan huruf pertama di deskripsi adalah **huruf kapital** dan diakhiri dengan **titik**.
 - Pastikan format listnya seperti ini. Contoh :
   ```
   [NAMA PROJEK](https://github.com/USERNAME/REPOSITORI-PROJEK) - Deskripsi tentang kegunaan projek ini.
   ```
 - Pastikan buat listnya sesuai abjad (alphabetical). Contoh :
    ```diff
-     - [A](link) - deskripsi
-  + - [C](link) - deskripsi
-     - [Z](link) - deskripsi
+     - [A](link) - deskripsi.
+  + - [C](link) - deskripsi.
+     - [Z](link) - deskripsi.
   ```
 
 Jika semua sudah dipastikan, buat pull request dan jika sesuai dengan syarat di atas, kolabolator akan menggabungkan (merge) pull requestnya.  
