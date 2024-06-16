@@ -3,13 +3,15 @@
 ![awesome-indo-projects](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-indo-projects@main/logo.svg)  
 <sup>Logo created with [Lunacy](https://icons8.com/lunacy) by [LIGMATV](https://ligmatv.vercel.app/). Inspired from [awesome-editorjs](https://github.com/editor-js/awesome-editorjs/blob/master/assets/editor-awesome.png).</sup>
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint Awesome List](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml)
+
 </div>
 
 # Awesome Indo Projects
 
 > A curated list of awesome projects created by Indonesian programmer, and more awesome!
 
-Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo). With adding Awesome Lint and Alphabetical order *(In origin, the list alphabeticalized with [this pen](https://codepen.io/LIGMATV/pen/LYoeLvW).)* Fix the GitIndonesia/awesome-indonesia-repo#160 issue.
+Inspired and adapted from [Awesome Indonesia Repo](https://togithub.com/GitIndonesia/awesome-indonesia-repo). With adding Awesome Lint and Alphabetical order *(In origin, the list alphabeticalized with [this pen](https://codepen.io/LIGMATV/pen/LYoeLvW).)* Fix the GitIndonesia/awesome-indonesia-repo#160 issue.
 
 ## Contents
 
@@ -83,7 +85,7 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 ## Awesome List
 
 - [Awesome CodeIgniter](https://github.com/codeigniter-id/awesome-codeigniter) - A list of awesome CodeIgniter core, helpers, hooks, language, libraries, and third party.
-- [Awesome Docker Compose Collection](https://github.com/makiraid/docker-compose-collection) - List of Docker Compose Collection
+- [Awesome Docker Compose Collection](https://github.com/makiraid/docker-compose-collection) - List of Docker Compose Collection.
 - [Awesome Guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high-quality coding style conventions and standards.
 - [Awesome Indonesia Repo](https://github.com/GitIndonesia/awesome-indonesia-repo) - A curated list of awesome and amazing repositories created by Indonesians.
 - [Awesome Indonesia Telegram Groups](https://github.com/hendisantika/List-All-Programming-Telegram-Group) - Non-exhaustive list of Indonesian Telegram groups focused on programming.
@@ -101,10 +103,10 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 - [E-Library MDC](https://github.com/MuhammadiyahDeveloperClub/E-Library) - *E-library* yang berisi kumpulan *E-book* tentang dunia IT.
 - [Free Programming Books Indonesia](https://github.com/EbookFoundation/free-programming-books/blob/master/books/free-programming-books-id.md) - Freely available programming books written in Indonesian.
 - [JVM Handbook](https://github.com/bliblidotcom/jvm-handbook) - Buku pembahasan detil tentang cara kerja dan internal JVM.
-- [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software. 
+- [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software. .
 
 ## Roadmap
-- [RoadmapId](https://roadmapid.vercel.app/) - Roadmap yang menyediakan alur belajar khusus untuk web developer Indonesia yang masih pemula
+- [RoadmapId](https://roadmapid.vercel.app/) - Roadmap yang menyediakan alur belajar khusus untuk web developer Indonesia yang masih pemula.
 
 ## Content Management System
 
@@ -141,7 +143,7 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 
 - [Bootstrap Markdown](https://github.com/toopay/bootstrap-markdown) - Bootstrap plugin for markdown editing.
 - [Marka](https://github.com/fians/marka) - Beautiful transformable icons built for the web.
-- [Mazer](https://github.com/zuramai/mazer) - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template 
+- [Mazer](https://github.com/zuramai/mazer) - Clean, Elegant, and Free Bootstrap 5 Admin Dashboard Template .
 - [React Komik](https://github.com/sonnylazuardi/react-komik) - ReactJS based comic strip creator using fabric.js canvas rendering.
 - [Stisla](https://github.com/stisla/stisla) - A free Bootstrap admin template which helps speed up your project and design your own dashboard UI.
 - [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design.
@@ -156,13 +158,13 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 
 ## Go
 
-- [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go
+- [Design Pattern](https://github.com/imrenagi/design-pattern) - Design pattern with Go.
 - [Excel2Json](https://github.com/FerdinaKusumah/excel2json) - Convert your excel or excel datasource to json easily.
 - [File.io Clone](https://github.com/codenoid/file.io) - File.io clone, file sharing with expiration.
 - [Go-Payment](https://github.com/imrenagi/go-payment) - Payment module used as proxy for multiple payment gateways. Currently it only supports Midtrans SNAP and Xendit Ewallet and XenInvoice.
-- [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang
+- [Godong](https://github.com/novalagung/godong) - Easiest dynamic http route handler for golang.
 - [GoTral](https://github.com/codenoid/GoTral) - Go cenTralized config, for distributed software.
-- [Gubrak](https://github.com/novalagung/gubrak) - Golang functional utility library with syntactic sugar. It's like lodash, but for Go
+- [Gubrak](https://github.com/novalagung/gubrak) - Golang functional utility library with syntactic sugar. It's like lodash, but for Go.
 - [HiberSunda](https://github.com/hiberin/hibersunda) - The API to learn Undak Usuk Basa in Sundanese language.
 - [Imaginative Go](https://github.com/sonyarianto/imaginative-go) - Web to learn Go.
 - [Inflector](https://github.com/gedex/inflector) - Inflector pluralizes and singularizes English nouns.
@@ -181,27 +183,30 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 ## Rust
 
 - [Fido](https://github.com/codenoid/Fido) - Distributed Storage, Easily distribute your data accross disk/node.
-- [Learn Rust](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch
+- [Learn Rust](https://github.com/evilfactorylabs/belajar-rust) - Learn Rust From Scratch.
 
 ## JavaScript
 
 - [Aksara UI](https://github.com/kata-ai/aksara-ui) - Aksara UI is an implementation of Aksara using the React framework.
 - [Angkot](https://github.com/widatama/angkot) - A searchable Jakarta's public transportation routes.
+- [Bukumark](https://github.com/LIGMATV/Bukumark) - Bookmark manager that keep you simple with beautiful UI.
 - [cabul](https://github.com/sinkaroid/cabul) - Cabul guide you to the NSFW world of reddit.
 - [carakan.js](https://github.com/masnormen/carakanjs) - Carakan.js is a small library for converting Latin script into Javanese script, also known as Aksara Jawa/Carakan.
-- [CariKerja](https://github.com/rizafahmi/carikerja) - About
+- [CariKerja](https://github.com/rizafahmi/carikerja) - About.
 - [Color Copy Paste](https://github.com/sonnylazuardi/color-copy-paste) - Figma plugin copy & paste color directly from your phone's camera to design plugins.
 - [cra-universal](https://github.com/antonybudianto/cra-universal) - Create React App companion for universal app. No eject, zero config, full HMR, and more.
 - [Data Wilayah](https://github.com/codenoid/Data-Wilayah.js) - Indonesia territory data in JavaScript, so you don't backend/database.
+- [Disgrow](https://github.com/sinkaroid/disgrow) - A growth increments for your Discord bots.
 - [Esprima](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis.
 - [Geografis](https://github.com/drizki/geografis) - A Node.js module containing detailed area info including area code, postal code, village, district, city, province, coordinates, elevation, and geojson files.
 - [giscus](https://github.com/giscus/giscus) - A comments system for any site, static or dynamic, powered by GitHub Discussions.
 - [Iyem](https://github.com/lukluk/iyem) - Simple implementation multi thread in Node.js.
+- [Jandapress](https://github.com/sinkaroid/jandapress) - RESTful API for the doujinboards with gather in mind.
 - [jQuery Awesome Sosmed Share Button](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button) - Awesome social media button with share count.
 - [jQuery Calx](https://github.com/xsanisty/jquery-calx) - jQuery plugin for creating formula-based calculation.
 - [JVFloat.js](https://github.com/maman/JVFloat.js) - jQuery / Zepto plugin to emulate Matt D. Smith's floating placeholder text.
 - [Kinetic](https://github.com/ariya/kinetic) - Kinetic Scrolling with JavaScript.
-- [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!
+- [Malibu](https://github.com/tinyhttp/malibu) - Framework-agnostic CSRF middleware, for Express, vanilla HTTP, Tinyhttp, Polka, and more!.
 - [Meteoris2](https://github.com/radiegtya/meteoris2) - Realtime JavaScript Boilerplate base on MeteorJS Framework.
 - [Museum Indonesia CLI](https://github.com/maulana20/museum-id) - Open source Show Data Museum in Indonesia via Command-CLI.
 - [PandaJS](https://github.com/rizki4106/pandajs) - Pandajs is a library for create REST SERVER.
@@ -220,10 +225,6 @@ Inspired and adapted from [Awesome Indonesia Repo](https://github.com/GitIndones
 - [Soya Next](https://github.com/traveloka/soya-next) - An opinionated configured Next.js framework.
 - [UAParser.js](https://github.com/faisalman/ua-parser-js) - Lightweight JavaScript-based User-Agent string parser.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A browser extension that offers audio visualization on your YouTube page with nice musical notes.
-Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terkena pemutusan hubungan kerja karena pandemi COVID-19 dengan perusahaan yang sedang mencari talenta digital.
-- [Bukumark](https://github.com/LIGMATV/Bukumark) - Bookmark manager that keep you simple with beautiful UI
-- [Disgrow](https://github.com/sinkaroid/disgrow) - A growth increments for your Discord bots.
-- [Jandapress](https://github.com/sinkaroid/jandapress) - RESTful API for the doujinboards with gather in mind.
 
 ## Java
 
@@ -255,7 +256,7 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [Vue Mini Shop](https://github.com/BosNaufal/vue-mini-shop) - Mini Online Shop Built With Vue.js.
 - [Vue Simple PWA](https://github.com/BosNaufal/vue-simple-pwa) - Simple Progressive Web App Built with Vue.js.
 - [Vue SoundCloud](https://github.com/mul14/vue-soundcloud) - Vuejs + SoundCloud demo app.
-- [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS
+- [Vuello](https://github.com/kurnyaannn/vuello) - Simple Trello Clone built using Vite-Vue + TailwindCSS.
 
 ## NestJs
 
@@ -392,64 +393,47 @@ Menghubungkan para Software Engineer kece di tanah air yang terpaksa harus terke
 - [macOS Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with macOS Lion style.
 - [merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - 📦 Pretty and moe subdomains to host your weeb project.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
-- [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175))
-- [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain)
+- [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175)).
+- [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain).
 - [Topojson of Indonesia](https://github.com/tvalentius/Indonesia-topojson) - TopoJSON of Indonesia (Kota/Kabupaten Level), useful for data visualisation.
 
 ## Community
 
-- [Android Developer Serang](https://github.com/androidev-serang)
-- [Asosiasi Programmer Indonesia](https://github.com/aprogsi)
-- [Bali JavaScript Community](https://github.com/balijs)
-- [Banyuwangi Dev](https://github.com/banyuwangidev)
-- [BekasiJS](https://github.com/bekasijs)
-- [BughunterID](https://github.com/BugHunterID)
-- [CodeIgniter Indonesia](https://github.com/codeigniter-id)
-- [Data Science Indonesia](https://github.com/datascienceid)
-- [Django Indonesia](https://github.com/django-id)
-- [Ethical Hacker Indonesia](https://github.com/ethicalhackID)
-- [Haskell Indonesia](https://github.com/haskell-id)
-- [Hugo Indonesia](https://github.com/gohugoid)
-- [Id-Laravel](https://github.com/id-laravel)
-- [Indonesia JavaScript](https://github.com/idjs)
-- [Indonesian Ruby Community](https://github.com/id-ruby)
-- [Jakarta JavaScript User Group](https://github.com/jakartajs)
-- [JemberDev](https://github.com/jember-dev)
-- [Kalimantan Selatan JavaScript User Group](https://github.com/KalselJS)
-- [Komunitas Git Indonesia](https://github.com/GitIndonesia)
-- [Komunitas Pengguna Go Indonesia](https://github.com/golang-id)
-- [Komunitas Programmer Semarang](https://programmer-semarang.com)
-- [Kotlin Indonesia](https://github.com/KotlinID)
-- [Laravel Indonesia](https://github.com/laravel-indonesia)
-- [Lombokdev](https://github.com/LombokDev)
-- [Lombokjs](https://github.com/lombokjs)
-- [Machine Learning Lombok](https://github.com/mllombok)
-- [Nginx Indonesia](https://github.com/NginxID)
-- [Node.js Indonesia](https://github.com/nodejs-indonesia)
-- [Pascal Indonesia](https://github.com/pascal-id)
-- [PHP Indonesia](https://github.com/phpindonesia)
-- [Python Indonesia](https://github.com/id-python)
-- [React JS Indonesia](https://github.com/reactjs-id)
-- [React Native Indonesia](https://github.com/react-native-id)
-- [ReversingID](https://github.com/ReversingID)
-- [SurabayaDev](https://github.com/surabayadev)
-- [SurabayaJS](https://github.com/SurabayaJS)
-- [Symfonian Indonesia](https://github.com/SymfonyId)
+- [Android Developer Serang](https://github.com/androidev-serang) - Android Developer Community based on Serang.
+- [Asosiasi Programmer Indonesia](https://github.com/aprogsi) - Association of Indonesian Programmer.
+- [Bali JavaScript Community](https://github.com/balijs) - Github Group for BaliJS Community
+- [Banyuwangi Dev](https://github.com/banyuwangidev) - Banyuwangi IT community.
+- [BughunterID](https://github.com/BugHunterID) - Is an open community for all people of the same profession, as a bug bounty hunter.
+- [CodeIgniter Indonesia](https://github.com/codeigniter-id) - Codeigniter Indonesia Group (Let's Contribute Together).
+- [Data Science Indonesia](https://github.com/datascienceid) - With the people, building data-driven innovation ecosystem, for social welfare improvement.
+- [Django Indonesia](https://github.com/django-id) - Komunitas Developer Django Indonesia
+- [Ethical Hacker Indonesia](https://github.com/ethicalhackID) - Projects by Ethical Hacker Indonesia
+- [Hugo Indonesia](https://github.com/gohugoid) - Komunitas Hugo Indonesia
+- [Kalimantan Selatan JavaScript User Group](https://github.com/KalselJS) - Javascript user group from South Borneo
+- [Komunitas Git Indonesia](https://github.com/GitIndonesia) - Komunitas Git Indonesia.
+- [Lombokjs](https://github.com/lombokjs) - Komunitas Pengguna Javascript di Lombok.
+- [Nginx Indonesia](https://github.com/NginxID) - Server HTTP dan Proxy dengan kode sumber terbuka yang bisa juga berfungsi sebagai proxy IMAP/POP3
+- [Pascal Indonesia](https://github.com/pascal-id) - Pascal Indonesia Community Repository.
+- [PHP Indonesia](https://github.com/phpindonesia) - Proyek Proyek Sukarela PHP Indonesia
+- [React JS Indonesia](https://github.com/reactjs-id) - Komunitas Developer ReactJS Indonesia
+- [React Native Indonesia](https://github.com/react-native-id) - Komunitas React Native Indonesia.
+- [SurabayaJS](https://github.com/SurabayaJS) - User group based on Surabaya, Indonesia discussing everything JavaScript
+- [Symfonian Indonesia](https://github.com/SymfonyId) - Indonesia Symfony User Group.
 
 ## Content Creator
 
-- [Array ID](https://www.youtube.com/c/arrayid1)
-- [Erico Darmawan Handoyo0](https://www.youtube.com/c/EricoDarmawanHandoyo)
-- [Indonesia Belajar](https://www.youtube.com/c/IndonesiaBelajarKomputer)
-- [Insinyur Online](https://www.youtube.com/c/InsinyurOnline)
-- [Kawan Koding](https://www.youtube.com/c/kawankoding)
-- [Kelas Terbuka](https://www.youtube.com/c/KelasTerbuka)
-- [Parsinta](https://www.youtube.com/c/parsinta)
-- [Prawito Hudoro](https://www.youtube.com/channel/UC4k3OBYU4q6MuspHVzZlkew)
-- [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ)
-- [Sekolah Koding](https://www.youtube.com/c/SekolahKoding)
-- [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [Nauval](https://www.youtube.com/@mhdnauvalazhar) - Anggap aja temen sendiri yang lagi ngajar.
+- [Erico Darmawan Handoyo](https://www.youtube.com/@ericodarmawan) - Hi guys.. Nama saya Erico Darmawan Handoyo, salah satu pengajar di Fakultas IT, Universitas Maranatha Bandung.
+- [Indonesia Belajar](https://www.youtube.com/@belajaridn) - Selamat datang di channel Indonesia Belajar, channel belajar ilmu komputer berbahasa Indonesia.
+- [Insinyur Online](https://www.youtube.com/@InsinyurOnline) - IInsinyur Online adalah sebuah komunitas belajar bareng topik-topik software engineering yang menitikberatkan pada pemahaman fundamental dan konseptual.
+- [Kawan Koding](https://www.youtube.com/@kawankoding) - Tempat belajar ngoding yang asik dengan topik PHP, Laravel, Livewire, Vue, React, React Native, dll.
+- [Kelas Terbuka](https://www.youtube.com/@KelasTerbuka) - Kelas Terbuka adalah channel belajar programming / pemrograman / ngoding / koding berbahasa indonesia. 
+- [Parsinta](https://www.youtube.com/@parsinta) - Tingkatkan kemampuan Anda dengan parsinta dengan mendorong keterampilan Anda ke tingkat berikutnya.
+- [Prawito Hudoro](https://www.youtube.com/@prawitohudoro) - Channel ini banyak berisi tentang tutorial-tutorial programming, dimulai dari front-end sampai back-end.
+- [Programmer Zaman Now](https://www.youtube.com/@ProgrammerZamanNow) - Channel ini sengaja dibuat untuk berbagi vlog dan screencast seputar dunia programmer.
+- [Sekolah Koding](https://www.youtube.com/@SekolahKoding) - Hi Semuanya! Cukup susah buat nyari tutorial berkualitas dalam bahasa Indonesia, butuh waktu yang cukup lama untuk ngambil kesimpulan dari sesuatu yang sebenarnya simple / mudah.
+- [Web Programming Unpas](https://www.youtube.com/@sandhikagalihWPU) - Channel khusus yang membahas mengenai teknologi internet dan pengembangan web / web development, dikelola oleh Sandhika Galih (Pa Dhika).
 
-# Contributing
+## Contributing
 
 Ingin menambahkan projek atau berkontribusi di sini? Baca [contributing](contributing.md) untuk detail.
