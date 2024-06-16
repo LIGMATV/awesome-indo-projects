@@ -18,6 +18,7 @@ Inspired and adapted from [Awesome Indonesia Repo](https://togithub.com/GitIndon
 - [Android](#android)
 - [Awesome List](#awesome-list)
 - [Books](#books)
+- [Roadmap](#roadmap)
 - [Content Management System](#content-management-system)
 - [Climate Change](#climate-change)
 - [Databases](#databases)
@@ -106,6 +107,7 @@ Inspired and adapted from [Awesome Indonesia Repo](https://togithub.com/GitIndon
 - [Panduan Lengkap Refactoring](https://github.com/zuramai/refactoring) - Kumpulan metode refactoring dan cara mengatasi code smells yang berpotensi mengurangi maintainability pada sebuah software. .
 
 ## Roadmap
+
 - [RoadmapId](https://roadmapid.vercel.app/) - Roadmap yang menyediakan alur belajar khusus untuk web developer Indonesia yang masih pemula.
 
 ## Content Management System
@@ -401,29 +403,29 @@ Inspired and adapted from [Awesome Indonesia Repo](https://togithub.com/GitIndon
 
 - [Android Developer Serang](https://github.com/androidev-serang) - Android Developer Community based on Serang.
 - [Asosiasi Programmer Indonesia](https://github.com/aprogsi) - Association of Indonesian Programmer.
-- [Bali JavaScript Community](https://github.com/balijs) - Github Group for BaliJS Community
+- [Bali JavaScript Community](https://github.com/balijs) - GitHub Group for BaliJS Community.
 - [Banyuwangi Dev](https://github.com/banyuwangidev) - Banyuwangi IT community.
 - [BughunterID](https://github.com/BugHunterID) - Is an open community for all people of the same profession, as a bug bounty hunter.
 - [CodeIgniter Indonesia](https://github.com/codeigniter-id) - Codeigniter Indonesia Group (Let's Contribute Together).
 - [Data Science Indonesia](https://github.com/datascienceid) - With the people, building data-driven innovation ecosystem, for social welfare improvement.
-- [Django Indonesia](https://github.com/django-id) - Komunitas Developer Django Indonesia
-- [Ethical Hacker Indonesia](https://github.com/ethicalhackID) - Projects by Ethical Hacker Indonesia
-- [Hugo Indonesia](https://github.com/gohugoid) - Komunitas Hugo Indonesia
-- [Kalimantan Selatan JavaScript User Group](https://github.com/KalselJS) - Javascript user group from South Borneo
+- [Django Indonesia](https://github.com/django-id) - Komunitas Developer Django Indonesia.
+- [Ethical Hacker Indonesia](https://github.com/ethicalhackID) - Projects by Ethical Hacker Indonesia.
+- [Hugo Indonesia](https://github.com/gohugoid) - Komunitas Hugo Indonesia.
+- [Kalimantan Selatan JavaScript User Group](https://github.com/KalselJS) - JavaScript user group from South Borneo.
 - [Komunitas Git Indonesia](https://github.com/GitIndonesia) - Komunitas Git Indonesia.
-- [Lombokjs](https://github.com/lombokjs) - Komunitas Pengguna Javascript di Lombok.
-- [Nginx Indonesia](https://github.com/NginxID) - Server HTTP dan Proxy dengan kode sumber terbuka yang bisa juga berfungsi sebagai proxy IMAP/POP3
+- [Lombokjs](https://github.com/lombokjs) - Komunitas Pengguna JavaScript di Lombok.
+- [Nginx Indonesia](https://github.com/NginxID) - Server HTTP dan Proxy dengan kode sumber terbuka yang bisa juga berfungsi sebagai proxy IMAP/POP3.
 - [Pascal Indonesia](https://github.com/pascal-id) - Pascal Indonesia Community Repository.
-- [PHP Indonesia](https://github.com/phpindonesia) - Proyek Proyek Sukarela PHP Indonesia
-- [React JS Indonesia](https://github.com/reactjs-id) - Komunitas Developer ReactJS Indonesia
+- [PHP Indonesia](https://github.com/phpindonesia) - Proyek Proyek Sukarela PHP Indonesia.
+- [React JS Indonesia](https://github.com/reactjs-id) - Komunitas Developer ReactJS Indonesia.
 - [React Native Indonesia](https://github.com/react-native-id) - Komunitas React Native Indonesia.
-- [SurabayaJS](https://github.com/SurabayaJS) - User group based on Surabaya, Indonesia discussing everything JavaScript
+- [SurabayaJS](https://github.com/SurabayaJS) - User group based on Surabaya, Indonesia discussing everything JavaScript.
 - [Symfonian Indonesia](https://github.com/SymfonyId) - Indonesia Symfony User Group.
 
 ## Content Creator
 
 - [Nauval](https://www.youtube.com/@mhdnauvalazhar) - Anggap aja temen sendiri yang lagi ngajar.
-- [Erico Darmawan Handoyo](https://www.youtube.com/@ericodarmawan) - Hi guys.. Nama saya Erico Darmawan Handoyo, salah satu pengajar di Fakultas IT, Universitas Maranatha Bandung.
+- [Erico Darmawan Handoyo](https://www.youtube.com/@ericodarmawan) - Hi guys, Nama saya Erico Darmawan Handoyo, salah satu pengajar di Fakultas IT, Universitas Maranatha Bandung.
 - [Indonesia Belajar](https://www.youtube.com/@belajaridn) - Selamat datang di channel Indonesia Belajar, channel belajar ilmu komputer berbahasa Indonesia.
 - [Insinyur Online](https://www.youtube.com/@InsinyurOnline) - IInsinyur Online adalah sebuah komunitas belajar bareng topik-topik software engineering yang menitikberatkan pada pemahaman fundamental dan konseptual.
 - [Kawan Koding](https://www.youtube.com/@kawankoding) - Tempat belajar ngoding yang asik dengan topik PHP, Laravel, Livewire, Vue, React, React Native, dll.
