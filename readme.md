@@ -392,8 +392,8 @@ Inspired and adapted from [Awesome Indonesia Repo](https://togithub.com/GitIndon
 
 - [Indonesia on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/countries/indonesia.md) - Popular repositories in Indonesia.
 - [Indonesian AdBlock Rules](https://github.com/ABPindo/indonesianadblockrules) - Compiled ABP rules to block various ads in Indonesian based site.
-- [macOS Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - (Web) Static site theme with macOS Lion style.
-- [merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - 📦 Pretty and moe subdomains to host your weeb project.
+- [macOS Lion Theme](https://github.com/SunDi3yansyah/mac-osx-lion-theme) - Web Static site theme with macOS Lion style.
+- [merahputih.moe](https://github.com/ScathachGrip/merahputih.moe) - Pretty and moe subdomains to host your weeb project.
 - [OpenRetail](https://github.com/rudi-krsoftware/open-retail) - Perangkat lunak open source yang dikembangkan khusus untuk bidang usaha ritel, grosir, toko bangunan, toko komputer, toko buku, counter hp, pos, point of sale, kasir dan bidang usaha lainnya yang sejenis.
 - [Peta Indonesia GeoJSON](https://github.com/ans-4175/peta-indonesia-geojson) - Provincial GeoJSON data for Indonesia. Useful for making choropleth visualizations for Data Science projects. (by [ans-4175](https://github.com/ans-4175)).
 - [thedev.id](https://github.com/fransallen/thedev.id) - An identity for developers on the web. (Subdomain).
