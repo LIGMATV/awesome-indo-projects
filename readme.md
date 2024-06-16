@@ -3,7 +3,7 @@
 ![awesome-indo-projects](https://cdn.jsdelivr.net/gh/LIGMATV/awesome-indo-projects@main/logo.svg)  
 <sup>Logo created with [Lunacy](https://icons8.com/lunacy) by [LIGMATV](https://ligmatv.vercel.app/). Inspired from [awesome-editorjs](https://github.com/editor-js/awesome-editorjs/blob/master/assets/editor-awesome.png).</sup>
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint Awesome List](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml/badge.svg)](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Lint Awesome List](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml/badge.svg?event=push)](https://github.com/LIGMATV/awesome-indo-projects/actions/workflows/lint.yml)
 
 </div>
 
